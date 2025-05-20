@@ -20,6 +20,7 @@ Each dashboard is built with real-world scenarios in mind — focusing on busine
   <img src="car-sales-service-dashboard/Sales-Dashboard.JPG" width="400">
 </div>
 
+#### 🔗 [Public Dashboard Link](https://lookerstudio.google.com/reporting/df391c20-7f7c-41f5-a131-826a5e11a38e)
 ---
 
 ### 📌 More dashboards coming soon!
